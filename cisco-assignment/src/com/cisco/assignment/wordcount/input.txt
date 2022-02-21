@@ -1,0 +1,5 @@
+Write a quick and dirty program (Shell, Python, Perl, Java, Lisp,
+   C++, APL, or whatever) to produce a count of all the different
+   "words" in a text file.  Use any definition of word that makes
+   logical sense or makes your job easy.  The output might look like like
+   this:
